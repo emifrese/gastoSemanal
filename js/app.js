@@ -80,7 +80,7 @@ class UI {
 
         setTimeout(() => {
             divMensaje.remove();
-        }, 3000);
+        }, 2000);
     }
 
     mostrarGastos(gastos){
